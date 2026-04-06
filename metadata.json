@@ -1,0 +1,5 @@
+{
+  "name": "동영상 화질 개선",
+  "description": "브라우저 기반 무료 동영상 화질 개선 및 선명도 조절 도구",
+  "requestFramePermissions": []
+}
