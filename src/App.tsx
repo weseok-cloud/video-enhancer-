@@ -333,7 +333,7 @@ export default function App() {
           <div className="flex gap-4">
             <a href="#" className="hover:text-white transition-colors">이용약관</a>
             <a href="#" className="hover:text-white transition-colors">개인정보 처리방침</a>
-            <a href="#" className="hover:text-white transition-colors">고객지원</a>
+            <a href="mailto:weseok@gmail.com" className="hover:text-white transition-colors">고객지원(weseok@gmail.com)</a>
           </div>
         </div>
         <p className="mt-4 text-xs text-white/30 max-w-2xl mx-auto">
